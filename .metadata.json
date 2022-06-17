@@ -1,0 +1,14 @@
+[
+  {
+    "package": "forestplot",
+    "oncran": true
+  },
+  {
+    "package": "Gmisc",
+    "oncran": true
+  },
+  {
+    "package": "htmlTable",
+    "oncran": true
+  }
+]

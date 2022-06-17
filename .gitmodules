@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "forestplot"]
+	path = forestplot
+	url = https://github.com/gforge/forestplot
+	shallow = true
+	registered = true
+[submodule "Gmisc"]
+	path = Gmisc
+	url = https://github.com/gforge/gmisc
+	shallow = true
+	registered = true
+[submodule "htmlTable"]
+	path = htmlTable
+	url = https://github.com/gforge/htmltable
+	shallow = true
+	registered = true
