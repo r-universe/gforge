@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "Greg",
+    "oncran": true
+  },
+  {
     "package": "htmlTable",
     "oncran": true
   }

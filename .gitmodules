@@ -13,6 +13,11 @@
 	url = https://github.com/gforge/gmisc
 	shallow = true
 	registered = true
+[submodule "Greg"]
+	path = Greg
+	url = https://github.com/gforge/greg
+	shallow = true
+	registered = true
 [submodule "htmlTable"]
 	path = htmlTable
 	url = https://github.com/gforge/htmltable
