@@ -1,6 +1,6 @@
 [
   {
-    "package": "Greg",
+    "package": "forestplot",
     "oncran": true
   },
   {
@@ -8,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "htmlTable",
+    "package": "Greg",
     "oncran": true
   },
   {
-    "package": "forestplot",
+    "package": "htmlTable",
     "oncran": true
   }
 ]
